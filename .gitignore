@@ -42,3 +42,8 @@ pydevd*.log
 nodeLanguageServer/**
 nodeLanguageServer.*/**
 dist/**
+test/**
+train/**
+test_notebook.ipynb
+test_set.csv
+train_set.csv
